@@ -70,6 +70,7 @@ Jinja2==2.11.2
 jmespath==0.10.0
 joblib==0.14.1
 json-merge-patch==0.2
+jsonify==0.5
 jsonschema==3.2.0
 jupyter==1.0.0
 jupyter-client==5.3.4
